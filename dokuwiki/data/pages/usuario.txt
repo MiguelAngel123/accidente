@@ -1,0 +1,16 @@
+Manual del Usuario Final
+
+Roles de Usuario del Sistema de Archivo Digital:
+
+  * [[admsis|Administrador de Sistemas]]
+
+  * [[admarch|Administrador de Archivo]]
+
+  * [[archcor|Archivo Central de Oficina Regional]]
+
+  * [[archges|Archivo de Gestión]] 
+
+  * [[archcen|Archivo Central]]
+
+  * [[archint|Archivo Intermedio]]
+

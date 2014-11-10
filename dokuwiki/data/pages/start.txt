@@ -1,0 +1,14 @@
+  * Type: String
+  * Default: ''sidebar''
+
+Sistema de Archivo Digital
+
+Menú:
+
+[[disenio|Manual Técnico de Diseño del Sistema]]
+
+[[desarrollo|Manual Técnico de Desarrollo del Sistema]]
+
+[[instalacion|Manual de Instalación del Sistema]]
+
+[[usuario|Manual del Usuario Final]]
