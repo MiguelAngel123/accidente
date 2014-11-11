@@ -194,6 +194,7 @@ class usuario extends tab_usuario {
         $sql = "SELECT *
                 FROM tab_usuario
                 WHERE usu_login ='" . pg_escape_string($username) . "' AND usu_pass ='" . $pass . "' $where ";
+		
         $this->usuario = new tab_usuario ();
         if ($username != null || $pass != null) {
             $row = $this->usuario->dbselectBySQL($sql);
