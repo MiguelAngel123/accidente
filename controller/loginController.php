@@ -76,9 +76,6 @@ class loginController extends baseController {
 //        $adm = "";
 //        $adm = $this->usuario->esAdm();
 //        $this->registry->template->PATH_B = $this->encuesta->loadMenu($adm, "");
-        
-        
-        
         $this->registry->template->PATH_J = "jquery";
         $this->registry->template->show('header');
 	}
